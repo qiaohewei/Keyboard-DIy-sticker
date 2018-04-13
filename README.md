@@ -6,7 +6,8 @@
 ##### 如果用于商业用途，最好改改-。- ....
 ###### 同志们，See you~~~
 ### 下图是预览图吼...
-主页：<http://www.qiaohewei.cc>
+[主页][1]
+[1]:http://www.qiaohewei.cc
 ![Alt text](https://github.com/qiaohewei/Keyboard-DIy-sticker/raw/master/images/Keyboard-DIy-sticker.png)
 ![Alt text](https://github.com/qiaohewei/Keyboard-DIy-sticker/raw/master/images/Keyboard-DIy-sticker1.png)
 ![Alt text](https://github.com/qiaohewei/Keyboard-DIy-sticker/raw/master/images/Keyboard-DIy-sticker2.png)
